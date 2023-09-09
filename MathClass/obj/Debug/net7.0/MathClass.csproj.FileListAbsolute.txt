@@ -1,0 +1,15 @@
+/home/hugo/Desktop/C#-Projects/MathClass/bin/Debug/net7.0/MathClass
+/home/hugo/Desktop/C#-Projects/MathClass/bin/Debug/net7.0/MathClass.deps.json
+/home/hugo/Desktop/C#-Projects/MathClass/bin/Debug/net7.0/MathClass.runtimeconfig.json
+/home/hugo/Desktop/C#-Projects/MathClass/bin/Debug/net7.0/MathClass.dll
+/home/hugo/Desktop/C#-Projects/MathClass/bin/Debug/net7.0/MathClass.pdb
+/home/hugo/Desktop/C#-Projects/MathClass/obj/Debug/net7.0/MathClass.csproj.AssemblyReference.cache
+/home/hugo/Desktop/C#-Projects/MathClass/obj/Debug/net7.0/MathClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugo/Desktop/C#-Projects/MathClass/obj/Debug/net7.0/MathClass.AssemblyInfoInputs.cache
+/home/hugo/Desktop/C#-Projects/MathClass/obj/Debug/net7.0/MathClass.AssemblyInfo.cs
+/home/hugo/Desktop/C#-Projects/MathClass/obj/Debug/net7.0/MathClass.csproj.CoreCompileInputs.cache
+/home/hugo/Desktop/C#-Projects/MathClass/obj/Debug/net7.0/MathClass.dll
+/home/hugo/Desktop/C#-Projects/MathClass/obj/Debug/net7.0/refint/MathClass.dll
+/home/hugo/Desktop/C#-Projects/MathClass/obj/Debug/net7.0/MathClass.pdb
+/home/hugo/Desktop/C#-Projects/MathClass/obj/Debug/net7.0/MathClass.genruntimeconfig.cache
+/home/hugo/Desktop/C#-Projects/MathClass/obj/Debug/net7.0/ref/MathClass.dll

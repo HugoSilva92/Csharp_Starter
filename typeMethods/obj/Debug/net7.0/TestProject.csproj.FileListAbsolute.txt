@@ -1,0 +1,15 @@
+/home/hugo/Desktop/C#-Projects/C#-Projects/TestProject/bin/Debug/net7.0/TestProject
+/home/hugo/Desktop/C#-Projects/C#-Projects/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/home/hugo/Desktop/C#-Projects/C#-Projects/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/home/hugo/Desktop/C#-Projects/C#-Projects/TestProject/bin/Debug/net7.0/TestProject.dll
+/home/hugo/Desktop/C#-Projects/C#-Projects/TestProject/bin/Debug/net7.0/TestProject.pdb
+/home/hugo/Desktop/C#-Projects/C#-Projects/TestProject/obj/Debug/net7.0/TestProject.csproj.AssemblyReference.cache
+/home/hugo/Desktop/C#-Projects/C#-Projects/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugo/Desktop/C#-Projects/C#-Projects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/home/hugo/Desktop/C#-Projects/C#-Projects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/home/hugo/Desktop/C#-Projects/C#-Projects/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/home/hugo/Desktop/C#-Projects/C#-Projects/TestProject/obj/Debug/net7.0/TestProject.dll
+/home/hugo/Desktop/C#-Projects/C#-Projects/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/home/hugo/Desktop/C#-Projects/C#-Projects/TestProject/obj/Debug/net7.0/TestProject.pdb
+/home/hugo/Desktop/C#-Projects/C#-Projects/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/home/hugo/Desktop/C#-Projects/C#-Projects/TestProject/obj/Debug/net7.0/ref/TestProject.dll
