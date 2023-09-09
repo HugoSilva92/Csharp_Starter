@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hugo/Common_core/Csharp_Starter/MathClass/MathClass.csproj": {}
+    "/home/hugo/Desktop/Common_Core/Csharp_Starter/MathClass/MathClass.csproj": {}
   },
   "projects": {
-    "/home/hugo/Common_core/Csharp_Starter/MathClass/MathClass.csproj": {
+    "/home/hugo/Desktop/Common_Core/Csharp_Starter/MathClass/MathClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hugo/Common_core/Csharp_Starter/MathClass/MathClass.csproj",
+        "projectUniqueName": "/home/hugo/Desktop/Common_Core/Csharp_Starter/MathClass/MathClass.csproj",
         "projectName": "MathClass",
-        "projectPath": "/home/hugo/Common_core/Csharp_Starter/MathClass/MathClass.csproj",
+        "projectPath": "/home/hugo/Desktop/Common_Core/Csharp_Starter/MathClass/MathClass.csproj",
         "packagesPath": "/home/hugo/.nuget/packages/",
-        "outputPath": "/home/hugo/Common_core/Csharp_Starter/MathClass/obj/",
+        "outputPath": "/home/hugo/Desktop/Common_Core/Csharp_Starter/MathClass/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hugo/.nuget/NuGet/NuGet.Config"
