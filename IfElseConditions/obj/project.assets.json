@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hugo/Common_core/Csharp_Starter/MathClass/MathClass.csproj",
-      "projectName": "MathClass",
-      "projectPath": "/home/hugo/Common_core/Csharp_Starter/MathClass/MathClass.csproj",
+      "projectUniqueName": "/home/hugo/Common_core/Csharp_Starter/IfElseConditions/IfElseConditions.csproj",
+      "projectName": "IfElseConditions",
+      "projectPath": "/home/hugo/Common_core/Csharp_Starter/IfElseConditions/IfElseConditions.csproj",
       "packagesPath": "/home/hugo/.nuget/packages/",
-      "outputPath": "/home/hugo/Common_core/Csharp_Starter/MathClass/obj/",
+      "outputPath": "/home/hugo/Common_core/Csharp_Starter/IfElseConditions/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hugo/.nuget/NuGet/NuGet.Config"
