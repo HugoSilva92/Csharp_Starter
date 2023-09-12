@@ -1,0 +1,15 @@
+/home/hugo/Desktop/Common_Core/Csharp_Starter/StringManipulation/bin/Debug/net7.0/StringManipulation
+/home/hugo/Desktop/Common_Core/Csharp_Starter/StringManipulation/bin/Debug/net7.0/StringManipulation.deps.json
+/home/hugo/Desktop/Common_Core/Csharp_Starter/StringManipulation/bin/Debug/net7.0/StringManipulation.runtimeconfig.json
+/home/hugo/Desktop/Common_Core/Csharp_Starter/StringManipulation/bin/Debug/net7.0/StringManipulation.dll
+/home/hugo/Desktop/Common_Core/Csharp_Starter/StringManipulation/bin/Debug/net7.0/StringManipulation.pdb
+/home/hugo/Desktop/Common_Core/Csharp_Starter/StringManipulation/obj/Debug/net7.0/StringManipulation.csproj.AssemblyReference.cache
+/home/hugo/Desktop/Common_Core/Csharp_Starter/StringManipulation/obj/Debug/net7.0/StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugo/Desktop/Common_Core/Csharp_Starter/StringManipulation/obj/Debug/net7.0/StringManipulation.AssemblyInfoInputs.cache
+/home/hugo/Desktop/Common_Core/Csharp_Starter/StringManipulation/obj/Debug/net7.0/StringManipulation.AssemblyInfo.cs
+/home/hugo/Desktop/Common_Core/Csharp_Starter/StringManipulation/obj/Debug/net7.0/StringManipulation.csproj.CoreCompileInputs.cache
+/home/hugo/Desktop/Common_Core/Csharp_Starter/StringManipulation/obj/Debug/net7.0/StringManipulation.dll
+/home/hugo/Desktop/Common_Core/Csharp_Starter/StringManipulation/obj/Debug/net7.0/refint/StringManipulation.dll
+/home/hugo/Desktop/Common_Core/Csharp_Starter/StringManipulation/obj/Debug/net7.0/StringManipulation.pdb
+/home/hugo/Desktop/Common_Core/Csharp_Starter/StringManipulation/obj/Debug/net7.0/StringManipulation.genruntimeconfig.cache
+/home/hugo/Desktop/Common_Core/Csharp_Starter/StringManipulation/obj/Debug/net7.0/ref/StringManipulation.dll

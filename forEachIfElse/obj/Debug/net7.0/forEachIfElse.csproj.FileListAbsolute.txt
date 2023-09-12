@@ -1,0 +1,15 @@
+/home/hugo/Desktop/Common_Core/Csharp_Starter/forEachIfElse/bin/Debug/net7.0/forEachIfElse
+/home/hugo/Desktop/Common_Core/Csharp_Starter/forEachIfElse/bin/Debug/net7.0/forEachIfElse.deps.json
+/home/hugo/Desktop/Common_Core/Csharp_Starter/forEachIfElse/bin/Debug/net7.0/forEachIfElse.runtimeconfig.json
+/home/hugo/Desktop/Common_Core/Csharp_Starter/forEachIfElse/bin/Debug/net7.0/forEachIfElse.dll
+/home/hugo/Desktop/Common_Core/Csharp_Starter/forEachIfElse/bin/Debug/net7.0/forEachIfElse.pdb
+/home/hugo/Desktop/Common_Core/Csharp_Starter/forEachIfElse/obj/Debug/net7.0/forEachIfElse.csproj.AssemblyReference.cache
+/home/hugo/Desktop/Common_Core/Csharp_Starter/forEachIfElse/obj/Debug/net7.0/forEachIfElse.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugo/Desktop/Common_Core/Csharp_Starter/forEachIfElse/obj/Debug/net7.0/forEachIfElse.AssemblyInfoInputs.cache
+/home/hugo/Desktop/Common_Core/Csharp_Starter/forEachIfElse/obj/Debug/net7.0/forEachIfElse.AssemblyInfo.cs
+/home/hugo/Desktop/Common_Core/Csharp_Starter/forEachIfElse/obj/Debug/net7.0/forEachIfElse.csproj.CoreCompileInputs.cache
+/home/hugo/Desktop/Common_Core/Csharp_Starter/forEachIfElse/obj/Debug/net7.0/forEachIfElse.dll
+/home/hugo/Desktop/Common_Core/Csharp_Starter/forEachIfElse/obj/Debug/net7.0/refint/forEachIfElse.dll
+/home/hugo/Desktop/Common_Core/Csharp_Starter/forEachIfElse/obj/Debug/net7.0/forEachIfElse.pdb
+/home/hugo/Desktop/Common_Core/Csharp_Starter/forEachIfElse/obj/Debug/net7.0/forEachIfElse.genruntimeconfig.cache
+/home/hugo/Desktop/Common_Core/Csharp_Starter/forEachIfElse/obj/Debug/net7.0/ref/forEachIfElse.dll
