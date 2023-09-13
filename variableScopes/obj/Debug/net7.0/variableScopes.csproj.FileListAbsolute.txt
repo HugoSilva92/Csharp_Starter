@@ -1,0 +1,15 @@
+/home/hugo/Common_core/Csharp_Starter/variableScopes/bin/Debug/net7.0/variableScopes
+/home/hugo/Common_core/Csharp_Starter/variableScopes/bin/Debug/net7.0/variableScopes.deps.json
+/home/hugo/Common_core/Csharp_Starter/variableScopes/bin/Debug/net7.0/variableScopes.runtimeconfig.json
+/home/hugo/Common_core/Csharp_Starter/variableScopes/bin/Debug/net7.0/variableScopes.dll
+/home/hugo/Common_core/Csharp_Starter/variableScopes/bin/Debug/net7.0/variableScopes.pdb
+/home/hugo/Common_core/Csharp_Starter/variableScopes/obj/Debug/net7.0/variableScopes.csproj.AssemblyReference.cache
+/home/hugo/Common_core/Csharp_Starter/variableScopes/obj/Debug/net7.0/variableScopes.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugo/Common_core/Csharp_Starter/variableScopes/obj/Debug/net7.0/variableScopes.AssemblyInfoInputs.cache
+/home/hugo/Common_core/Csharp_Starter/variableScopes/obj/Debug/net7.0/variableScopes.AssemblyInfo.cs
+/home/hugo/Common_core/Csharp_Starter/variableScopes/obj/Debug/net7.0/variableScopes.csproj.CoreCompileInputs.cache
+/home/hugo/Common_core/Csharp_Starter/variableScopes/obj/Debug/net7.0/variableScopes.dll
+/home/hugo/Common_core/Csharp_Starter/variableScopes/obj/Debug/net7.0/refint/variableScopes.dll
+/home/hugo/Common_core/Csharp_Starter/variableScopes/obj/Debug/net7.0/variableScopes.pdb
+/home/hugo/Common_core/Csharp_Starter/variableScopes/obj/Debug/net7.0/variableScopes.genruntimeconfig.cache
+/home/hugo/Common_core/Csharp_Starter/variableScopes/obj/Debug/net7.0/ref/variableScopes.dll

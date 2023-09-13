@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hugo/Desktop/Common_Core/Csharp_Starter/MathClass/MathClass.csproj": {}
+    "/home/hugo/Common_core/Csharp_Starter/MathClass/MathClass.csproj": {}
   },
   "projects": {
-    "/home/hugo/Desktop/Common_Core/Csharp_Starter/MathClass/MathClass.csproj": {
+    "/home/hugo/Common_core/Csharp_Starter/MathClass/MathClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hugo/Desktop/Common_Core/Csharp_Starter/MathClass/MathClass.csproj",
+        "projectUniqueName": "/home/hugo/Common_core/Csharp_Starter/MathClass/MathClass.csproj",
         "projectName": "MathClass",
-        "projectPath": "/home/hugo/Desktop/Common_Core/Csharp_Starter/MathClass/MathClass.csproj",
+        "projectPath": "/home/hugo/Common_core/Csharp_Starter/MathClass/MathClass.csproj",
         "packagesPath": "/home/hugo/.nuget/packages/",
-        "outputPath": "/home/hugo/Desktop/Common_Core/Csharp_Starter/MathClass/obj/",
+        "outputPath": "/home/hugo/Common_core/Csharp_Starter/MathClass/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hugo/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
         }
       }
     }

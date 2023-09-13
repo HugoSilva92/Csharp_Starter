@@ -1,0 +1,15 @@
+/home/hugo/Common_core/Csharp_Starter/switchCases/bin/Debug/net7.0/switchCases
+/home/hugo/Common_core/Csharp_Starter/switchCases/bin/Debug/net7.0/switchCases.deps.json
+/home/hugo/Common_core/Csharp_Starter/switchCases/bin/Debug/net7.0/switchCases.runtimeconfig.json
+/home/hugo/Common_core/Csharp_Starter/switchCases/bin/Debug/net7.0/switchCases.dll
+/home/hugo/Common_core/Csharp_Starter/switchCases/bin/Debug/net7.0/switchCases.pdb
+/home/hugo/Common_core/Csharp_Starter/switchCases/obj/Debug/net7.0/switchCases.csproj.AssemblyReference.cache
+/home/hugo/Common_core/Csharp_Starter/switchCases/obj/Debug/net7.0/switchCases.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugo/Common_core/Csharp_Starter/switchCases/obj/Debug/net7.0/switchCases.AssemblyInfoInputs.cache
+/home/hugo/Common_core/Csharp_Starter/switchCases/obj/Debug/net7.0/switchCases.AssemblyInfo.cs
+/home/hugo/Common_core/Csharp_Starter/switchCases/obj/Debug/net7.0/switchCases.csproj.CoreCompileInputs.cache
+/home/hugo/Common_core/Csharp_Starter/switchCases/obj/Debug/net7.0/switchCases.dll
+/home/hugo/Common_core/Csharp_Starter/switchCases/obj/Debug/net7.0/refint/switchCases.dll
+/home/hugo/Common_core/Csharp_Starter/switchCases/obj/Debug/net7.0/switchCases.pdb
+/home/hugo/Common_core/Csharp_Starter/switchCases/obj/Debug/net7.0/switchCases.genruntimeconfig.cache
+/home/hugo/Common_core/Csharp_Starter/switchCases/obj/Debug/net7.0/ref/switchCases.dll

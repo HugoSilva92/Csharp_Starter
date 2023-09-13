@@ -1,0 +1,15 @@
+/home/hugo/Common_core/Csharp_Starter/BattleRPG/bin/Debug/net7.0/BattleRPG
+/home/hugo/Common_core/Csharp_Starter/BattleRPG/bin/Debug/net7.0/BattleRPG.deps.json
+/home/hugo/Common_core/Csharp_Starter/BattleRPG/bin/Debug/net7.0/BattleRPG.runtimeconfig.json
+/home/hugo/Common_core/Csharp_Starter/BattleRPG/bin/Debug/net7.0/BattleRPG.dll
+/home/hugo/Common_core/Csharp_Starter/BattleRPG/bin/Debug/net7.0/BattleRPG.pdb
+/home/hugo/Common_core/Csharp_Starter/BattleRPG/obj/Debug/net7.0/BattleRPG.csproj.AssemblyReference.cache
+/home/hugo/Common_core/Csharp_Starter/BattleRPG/obj/Debug/net7.0/BattleRPG.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugo/Common_core/Csharp_Starter/BattleRPG/obj/Debug/net7.0/BattleRPG.AssemblyInfoInputs.cache
+/home/hugo/Common_core/Csharp_Starter/BattleRPG/obj/Debug/net7.0/BattleRPG.AssemblyInfo.cs
+/home/hugo/Common_core/Csharp_Starter/BattleRPG/obj/Debug/net7.0/BattleRPG.csproj.CoreCompileInputs.cache
+/home/hugo/Common_core/Csharp_Starter/BattleRPG/obj/Debug/net7.0/BattleRPG.dll
+/home/hugo/Common_core/Csharp_Starter/BattleRPG/obj/Debug/net7.0/refint/BattleRPG.dll
+/home/hugo/Common_core/Csharp_Starter/BattleRPG/obj/Debug/net7.0/BattleRPG.pdb
+/home/hugo/Common_core/Csharp_Starter/BattleRPG/obj/Debug/net7.0/BattleRPG.genruntimeconfig.cache
+/home/hugo/Common_core/Csharp_Starter/BattleRPG/obj/Debug/net7.0/ref/BattleRPG.dll
