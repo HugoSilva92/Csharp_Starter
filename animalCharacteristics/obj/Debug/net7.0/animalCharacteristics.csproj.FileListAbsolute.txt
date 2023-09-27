@@ -1,0 +1,15 @@
+/home/hugo/Common_core/Csharp_Starter/animalCharacteristics/bin/Debug/net7.0/animalCharacteristics
+/home/hugo/Common_core/Csharp_Starter/animalCharacteristics/bin/Debug/net7.0/animalCharacteristics.deps.json
+/home/hugo/Common_core/Csharp_Starter/animalCharacteristics/bin/Debug/net7.0/animalCharacteristics.runtimeconfig.json
+/home/hugo/Common_core/Csharp_Starter/animalCharacteristics/bin/Debug/net7.0/animalCharacteristics.dll
+/home/hugo/Common_core/Csharp_Starter/animalCharacteristics/bin/Debug/net7.0/animalCharacteristics.pdb
+/home/hugo/Common_core/Csharp_Starter/animalCharacteristics/obj/Debug/net7.0/animalCharacteristics.csproj.AssemblyReference.cache
+/home/hugo/Common_core/Csharp_Starter/animalCharacteristics/obj/Debug/net7.0/animalCharacteristics.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugo/Common_core/Csharp_Starter/animalCharacteristics/obj/Debug/net7.0/animalCharacteristics.AssemblyInfoInputs.cache
+/home/hugo/Common_core/Csharp_Starter/animalCharacteristics/obj/Debug/net7.0/animalCharacteristics.AssemblyInfo.cs
+/home/hugo/Common_core/Csharp_Starter/animalCharacteristics/obj/Debug/net7.0/animalCharacteristics.csproj.CoreCompileInputs.cache
+/home/hugo/Common_core/Csharp_Starter/animalCharacteristics/obj/Debug/net7.0/animalCharacteristics.dll
+/home/hugo/Common_core/Csharp_Starter/animalCharacteristics/obj/Debug/net7.0/refint/animalCharacteristics.dll
+/home/hugo/Common_core/Csharp_Starter/animalCharacteristics/obj/Debug/net7.0/animalCharacteristics.pdb
+/home/hugo/Common_core/Csharp_Starter/animalCharacteristics/obj/Debug/net7.0/animalCharacteristics.genruntimeconfig.cache
+/home/hugo/Common_core/Csharp_Starter/animalCharacteristics/obj/Debug/net7.0/ref/animalCharacteristics.dll

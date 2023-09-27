@@ -1,0 +1,15 @@
+/home/hugo/Common_core/Csharp_Starter/boolean/bin/Debug/net7.0/boolean
+/home/hugo/Common_core/Csharp_Starter/boolean/bin/Debug/net7.0/boolean.deps.json
+/home/hugo/Common_core/Csharp_Starter/boolean/bin/Debug/net7.0/boolean.runtimeconfig.json
+/home/hugo/Common_core/Csharp_Starter/boolean/bin/Debug/net7.0/boolean.dll
+/home/hugo/Common_core/Csharp_Starter/boolean/bin/Debug/net7.0/boolean.pdb
+/home/hugo/Common_core/Csharp_Starter/boolean/obj/Debug/net7.0/boolean.csproj.AssemblyReference.cache
+/home/hugo/Common_core/Csharp_Starter/boolean/obj/Debug/net7.0/boolean.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugo/Common_core/Csharp_Starter/boolean/obj/Debug/net7.0/boolean.AssemblyInfoInputs.cache
+/home/hugo/Common_core/Csharp_Starter/boolean/obj/Debug/net7.0/boolean.AssemblyInfo.cs
+/home/hugo/Common_core/Csharp_Starter/boolean/obj/Debug/net7.0/boolean.csproj.CoreCompileInputs.cache
+/home/hugo/Common_core/Csharp_Starter/boolean/obj/Debug/net7.0/boolean.dll
+/home/hugo/Common_core/Csharp_Starter/boolean/obj/Debug/net7.0/refint/boolean.dll
+/home/hugo/Common_core/Csharp_Starter/boolean/obj/Debug/net7.0/boolean.pdb
+/home/hugo/Common_core/Csharp_Starter/boolean/obj/Debug/net7.0/boolean.genruntimeconfig.cache
+/home/hugo/Common_core/Csharp_Starter/boolean/obj/Debug/net7.0/ref/boolean.dll
